@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Wimmer1
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
