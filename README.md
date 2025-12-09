@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @S-Wimmer1
-- 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Astronomy/IT
+- 🌱 I’m currently learning C++ & SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
+- 📫 How to reach me simon.wimmer@univie.ac.at
+- 😄 Pronouns: None, do not refer to me
 - ⚡ Fun fact: The average density of the Interstellar Medium is 1 particle per cubic centimeter, emptier than any man-made vacuum.
 
 <!---
